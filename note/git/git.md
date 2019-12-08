@@ -69,6 +69,7 @@
 - git连接到github：`ssh-keygen -t rsa -C "自己的邮箱地址"`,得到密匙后，复制id_rsa.pub中所有字符，添加到github的SSH中。
 - 关联某个存储库：`git remote add origin git@gitee.com:xxxx/xxxx.git`,其中的`origin`是我们自定义的远程库名称，默认`origin`。
 - 如果使用`git remote add`报错,说明本地库已经关联了一个远端的git仓库，可以先用`git remote -v`查看远程库信息,可以删除`git remote rm origin`,在关联新的远端库。
+- 检查是否连接上github：`ssh -T git@github.com`
 > 同时关联2个远程仓库[码云，github]
 - git remote add github git@github.com:xxx/xxx.git
 - git remote add gitee git@gitee.com:xxx/xxx.git
