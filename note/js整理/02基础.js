@@ -139,3 +139,6 @@ while (ary1.some(Array.isArray)) {
 }
 console.log(ary1);
 
+/* 数组中的高阶函数 */
+
+
