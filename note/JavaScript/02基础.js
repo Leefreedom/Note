@@ -27,7 +27,7 @@ function sum2(a, b) {
   console.log(args.reduce((sum, cur) => sum + cur));
 };
 sum2(1, 2);//3
-/* 第三种方法 ES6展开运算符*/
+/* 第三种方法 ES6展开运算符 */
 function sum3(a, b) {
   let args = [...arguments]
   console.log(args instanceof Array);//true
