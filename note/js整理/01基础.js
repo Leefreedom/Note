@@ -358,8 +358,10 @@ console.log('------------原型链--理解------------');
 /* 使用in来检查对象中是否存在该属性，原型链中存在也会返回true */
 
 console.log('------------js如何实现继承------------');
+
 /* ****js如何实现继承**** */
 //1.借助call，apply。问题是虽然能够拿到父类的数据，但是无法使用父类的函数方法。
+console.log('第一种');
 function Student() {
   this.name = "xiaohong"
 };
@@ -371,54 +373,128 @@ var children = new Children()
 console.log(children.name);
 
 //2.借助原型链的功能。存在不足，对Children2中的Student2修改，则另一个会同步，因为此处只存在一个Student2实例。
+console.log('第二种');
 function Student2() {
   this.name = "小明";
+  this.fn = function () {
+    console.log(this.name);
+  }
 }
 function Children2() {
   this.type = "Children2"
 }
 Children2.prototype = new Student2
 var child2 = new Children2()
-// console.log(child2);
+child2.fn();//小明
+child2.__proto__.name = "小红";
+console.log(child2, 111);
 
+/* 
+  原型链：
+      Student2==prototype==》Student2原型==__proto__==》object.prototype
+                                           ↑
+      Children2==prototype==》Student2原型=↑
+      原本Children2的prototype指向自身的原型，但是我们将地址更改为了Student2的实例对象
+*/
 
 
 //3.组合继承优化
+console.log('第三种');
+
 function Student3() {
-  this.name = "小明3";
+  this.name = "Student3";
 }
 function Children3() {
-  Children3.call(this)
-  this.type = "Children3"
+  Student3.call(this)
 }
-Student3.prototype = Children3.prototype
+Children3.prototype.type = "Children3"
+
+Student3.prototype = Children3.prototype;//Student3构造函数的prototype都指向Children3的prototype的地址。(prototype指向相同)
 const student = new Student3()
+console.log(student);
 console.log(student.type);
 
+console.log('最优');
 //组合继承最优质的方案----寄生组合继承
 function Parents4() {
-  this.name = "123"
+  this.name = "Parents4的name"
 }
 function Children4() {
   Parents4.call(this)
-  this.age = "123"
+  this.age = "Children4的123"
 }
-Children4.prototype = Object.create(Parents4.prototype)
-Children4.prototype.construtor = Children4
+Children4.prototype = Object.create(Parents4.prototype);//拷贝一个Parents4.prototype。
+Children4.prototype.construtor = Children4;//并修改construct属性
+const children4 = new Children4()
+console.log(children4.name);
+
+/* ES6的entends被babel编译后的代码（寄生组合继承的方式） */
+
+function _possibleConstructorReturn(self, call) {
+  //self自身，call继承对象
+  return call && (typeof self === "object" || typeof call === "function") ? call : self
+}
+function _inherits(subClass, superClass) {
+  //编译核心函数
+  subClass.prototype = Object.create(superClass && superClass.prototype, {
+    construtor: {
+      value: subClass,
+      enumerable: false,
+      writable: true,
+      configurable: true
+    }
+  });
+  /* Object.setPrototypeOf用来继承父类的静态方法 */
+  if (superClass) Object.setPrototypeOf ? Object.setPrototypeOf(subClass, superClass) : subClass.__proto__ = superClass
+}
 
 /* ****设计思想谈谈继承的本身问题**** */
-/* ******** */
-/* ******** */
-/* ******** */
-/* ******** */
-/* ******** */
-/* ******** */
-/* ******** */
-/* ******** */
-/* ******** */
-/* ******** */
-/* ******** */
-/* ******** */
+
+/* 假如现在有三款车，都含有drive、music、addOil三个方法 */
+class Car {
+  construtor(id) {
+    this.id = id
+  }
+  drive() {
+    console.log("drive");
+  }
+  music() {
+    console.log("music");
+  }
+  addOil() {
+    console.log("addOil");
+  }
+}
+
+class otherCar extends Car {
+  construtor(id) {
+    // super(id);//不是所有的主流浏览器都支持ES6的class，可以使用babel编译插件
+  }
+  start() {
+    console.log("start");
+  }
+}
+var car = new otherCar()
+car.id = 10
+console.log(car.id);
+car.addOil()
+
+/* ****组合继承(函数式编程中的方法compose)**** */
+
+function drive() {
+  console.log("drive");
+}
+function music() {
+  console.log("music");
+}
+function addOil() {
+  console.log("addOil");
+}
+let car1 = compose(drive, music, addOil)
+let newEnergyCar = compose(drive, music)
+const a1 = new car1()
+a1.music()
+
 
 
 
