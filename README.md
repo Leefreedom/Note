@@ -4,3 +4,4 @@ Code learning on a daily basis!
 - git的常用操作
 - Linux的基本命令
 - JSON
+- JavaScript知识点整理
