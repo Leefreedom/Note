@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\15-数组冒泡排序\bin\Debug\netcoreapp3.1\15-数组冒泡排序.exe
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\15-数组冒泡排序\bin\Debug\netcoreapp3.1\15-数组冒泡排序.deps.json
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\15-数组冒泡排序\bin\Debug\netcoreapp3.1\15-数组冒泡排序.runtimeconfig.json
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\15-数组冒泡排序\bin\Debug\netcoreapp3.1\15-数组冒泡排序.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\15-数组冒泡排序\bin\Debug\netcoreapp3.1\15-数组冒泡排序.dll
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\15-数组冒泡排序\bin\Debug\netcoreapp3.1\15-数组冒泡排序.pdb
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\15-数组冒泡排序\obj\Debug\netcoreapp3.1\15-数组冒泡排序.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\15-数组冒泡排序\obj\Debug\netcoreapp3.1\15-数组冒泡排序.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\15-数组冒泡排序\obj\Debug\netcoreapp3.1\15-数组冒泡排序.dll
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\15-数组冒泡排序\obj\Debug\netcoreapp3.1\15-数组冒泡排序.pdb

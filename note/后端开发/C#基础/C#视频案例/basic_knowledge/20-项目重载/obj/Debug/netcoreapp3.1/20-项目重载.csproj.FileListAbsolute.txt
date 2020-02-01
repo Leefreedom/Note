@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\20-项目重载\bin\Debug\netcoreapp3.1\20-项目重载.exe
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\20-项目重载\bin\Debug\netcoreapp3.1\20-项目重载.deps.json
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\20-项目重载\bin\Debug\netcoreapp3.1\20-项目重载.runtimeconfig.json
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\20-项目重载\bin\Debug\netcoreapp3.1\20-项目重载.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\20-项目重载\bin\Debug\netcoreapp3.1\20-项目重载.dll
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\20-项目重载\bin\Debug\netcoreapp3.1\20-项目重载.pdb
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\20-项目重载\obj\Debug\netcoreapp3.1\20-项目重载.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\20-项目重载\obj\Debug\netcoreapp3.1\20-项目重载.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\20-项目重载\obj\Debug\netcoreapp3.1\20-项目重载.dll
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\20-项目重载\obj\Debug\netcoreapp3.1\20-项目重载.pdb

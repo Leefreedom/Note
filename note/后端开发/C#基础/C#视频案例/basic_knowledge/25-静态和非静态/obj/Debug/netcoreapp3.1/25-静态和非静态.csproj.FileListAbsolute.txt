@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\25-静态和非静态\bin\Debug\netcoreapp3.1\25-静态和非静态.exe
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\25-静态和非静态\bin\Debug\netcoreapp3.1\25-静态和非静态.deps.json
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\25-静态和非静态\bin\Debug\netcoreapp3.1\25-静态和非静态.runtimeconfig.json
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\25-静态和非静态\bin\Debug\netcoreapp3.1\25-静态和非静态.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\25-静态和非静态\bin\Debug\netcoreapp3.1\25-静态和非静态.dll
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\25-静态和非静态\bin\Debug\netcoreapp3.1\25-静态和非静态.pdb
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\25-静态和非静态\obj\Debug\netcoreapp3.1\25-静态和非静态.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\25-静态和非静态\obj\Debug\netcoreapp3.1\25-静态和非静态.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\25-静态和非静态\obj\Debug\netcoreapp3.1\25-静态和非静态.dll
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\25-静态和非静态\obj\Debug\netcoreapp3.1\25-静态和非静态.pdb

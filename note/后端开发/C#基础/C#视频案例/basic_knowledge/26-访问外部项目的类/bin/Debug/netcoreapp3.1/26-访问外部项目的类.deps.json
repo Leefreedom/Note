@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "26-访问外部项目的类/1.0.0": {
+        "dependencies": {
+          "25-静态和非静态": "1.0.0"
+        },
+        "runtime": {
+          "26-访问外部项目的类.dll": {}
+        }
+      },
+      "25-静态和非静态/1.0.0": {
+        "runtime": {
+          "25-静态和非静态.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "26-访问外部项目的类/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "25-静态和非静态/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

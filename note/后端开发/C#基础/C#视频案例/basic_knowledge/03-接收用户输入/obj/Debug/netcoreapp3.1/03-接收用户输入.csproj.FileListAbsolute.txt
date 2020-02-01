@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\03-接收用户输入\bin\Debug\netcoreapp3.1\03-接收用户输入.exe
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\03-接收用户输入\bin\Debug\netcoreapp3.1\03-接收用户输入.deps.json
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\03-接收用户输入\bin\Debug\netcoreapp3.1\03-接收用户输入.runtimeconfig.json
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\03-接收用户输入\bin\Debug\netcoreapp3.1\03-接收用户输入.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\03-接收用户输入\bin\Debug\netcoreapp3.1\03-接收用户输入.dll
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\03-接收用户输入\bin\Debug\netcoreapp3.1\03-接收用户输入.pdb
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\03-接收用户输入\obj\Debug\netcoreapp3.1\03-接收用户输入.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\03-接收用户输入\obj\Debug\netcoreapp3.1\03-接收用户输入.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\03-接收用户输入\obj\Debug\netcoreapp3.1\03-接收用户输入.dll
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\03-接收用户输入\obj\Debug\netcoreapp3.1\03-接收用户输入.pdb

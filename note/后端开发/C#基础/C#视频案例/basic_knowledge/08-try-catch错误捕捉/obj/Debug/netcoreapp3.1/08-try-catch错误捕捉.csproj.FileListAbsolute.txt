@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\08-try-catch错误捕捉\bin\Debug\netcoreapp3.1\08-try-catch错误捕捉.exe
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\08-try-catch错误捕捉\bin\Debug\netcoreapp3.1\08-try-catch错误捕捉.deps.json
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\08-try-catch错误捕捉\bin\Debug\netcoreapp3.1\08-try-catch错误捕捉.runtimeconfig.json
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\08-try-catch错误捕捉\bin\Debug\netcoreapp3.1\08-try-catch错误捕捉.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\08-try-catch错误捕捉\bin\Debug\netcoreapp3.1\08-try-catch错误捕捉.dll
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\08-try-catch错误捕捉\bin\Debug\netcoreapp3.1\08-try-catch错误捕捉.pdb
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\08-try-catch错误捕捉\obj\Debug\netcoreapp3.1\08-try-catch错误捕捉.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\08-try-catch错误捕捉\obj\Debug\netcoreapp3.1\08-try-catch错误捕捉.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\08-try-catch错误捕捉\obj\Debug\netcoreapp3.1\08-try-catch错误捕捉.dll
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\08-try-catch错误捕捉\obj\Debug\netcoreapp3.1\08-try-catch错误捕捉.pdb

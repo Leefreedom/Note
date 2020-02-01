@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\22-飞行棋游戏\bin\Debug\netcoreapp3.1\22-飞行棋游戏.exe
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\22-飞行棋游戏\bin\Debug\netcoreapp3.1\22-飞行棋游戏.deps.json
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\22-飞行棋游戏\bin\Debug\netcoreapp3.1\22-飞行棋游戏.runtimeconfig.json
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\22-飞行棋游戏\bin\Debug\netcoreapp3.1\22-飞行棋游戏.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\22-飞行棋游戏\bin\Debug\netcoreapp3.1\22-飞行棋游戏.dll
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\22-飞行棋游戏\bin\Debug\netcoreapp3.1\22-飞行棋游戏.pdb
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\22-飞行棋游戏\obj\Debug\netcoreapp3.1\22-飞行棋游戏.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\22-飞行棋游戏\obj\Debug\netcoreapp3.1\22-飞行棋游戏.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\22-飞行棋游戏\obj\Debug\netcoreapp3.1\22-飞行棋游戏.dll
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\22-飞行棋游戏\obj\Debug\netcoreapp3.1\22-飞行棋游戏.pdb

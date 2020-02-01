@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\06-switch-case语句\bin\Debug\netcoreapp3.1\06-switch-case语句.exe
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\06-switch-case语句\bin\Debug\netcoreapp3.1\06-switch-case语句.deps.json
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\06-switch-case语句\bin\Debug\netcoreapp3.1\06-switch-case语句.runtimeconfig.json
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\06-switch-case语句\bin\Debug\netcoreapp3.1\06-switch-case语句.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\06-switch-case语句\bin\Debug\netcoreapp3.1\06-switch-case语句.dll
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\06-switch-case语句\bin\Debug\netcoreapp3.1\06-switch-case语句.pdb
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\06-switch-case语句\obj\Debug\netcoreapp3.1\06-switch-case语句.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\06-switch-case语句\obj\Debug\netcoreapp3.1\06-switch-case语句.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\06-switch-case语句\obj\Debug\netcoreapp3.1\06-switch-case语句.dll
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\06-switch-case语句\obj\Debug\netcoreapp3.1\06-switch-case语句.pdb

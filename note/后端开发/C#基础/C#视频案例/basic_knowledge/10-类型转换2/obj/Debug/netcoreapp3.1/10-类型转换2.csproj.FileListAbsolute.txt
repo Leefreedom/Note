@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\10-类型转换2\bin\Debug\netcoreapp3.1\10-类型转换2.exe
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\10-类型转换2\bin\Debug\netcoreapp3.1\10-类型转换2.deps.json
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\10-类型转换2\bin\Debug\netcoreapp3.1\10-类型转换2.runtimeconfig.json
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\10-类型转换2\bin\Debug\netcoreapp3.1\10-类型转换2.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\10-类型转换2\bin\Debug\netcoreapp3.1\10-类型转换2.dll
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\10-类型转换2\bin\Debug\netcoreapp3.1\10-类型转换2.pdb
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\10-类型转换2\obj\Debug\netcoreapp3.1\10-类型转换2.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\10-类型转换2\obj\Debug\netcoreapp3.1\10-类型转换2.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\10-类型转换2\obj\Debug\netcoreapp3.1\10-类型转换2.dll
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\10-类型转换2\obj\Debug\netcoreapp3.1\10-类型转换2.pdb

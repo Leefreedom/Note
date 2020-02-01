@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\26-访问外部项目的类\obj\Debug\netcoreapp3.1\26-访问外部项目的类.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\26-访问外部项目的类\obj\Debug\netcoreapp3.1\26-访问外部项目的类.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\26-访问外部项目的类\bin\Debug\netcoreapp3.1\26-访问外部项目的类.exe
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\26-访问外部项目的类\bin\Debug\netcoreapp3.1\26-访问外部项目的类.deps.json
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\26-访问外部项目的类\bin\Debug\netcoreapp3.1\26-访问外部项目的类.runtimeconfig.json
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\26-访问外部项目的类\bin\Debug\netcoreapp3.1\26-访问外部项目的类.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\26-访问外部项目的类\bin\Debug\netcoreapp3.1\26-访问外部项目的类.dll
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\26-访问外部项目的类\bin\Debug\netcoreapp3.1\26-访问外部项目的类.pdb
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\26-访问外部项目的类\obj\Debug\netcoreapp3.1\26-访问外部项目的类.dll
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\26-访问外部项目的类\obj\Debug\netcoreapp3.1\26-访问外部项目的类.pdb
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\26-访问外部项目的类\bin\Debug\netcoreapp3.1\25-静态和非静态.exe
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\26-访问外部项目的类\bin\Debug\netcoreapp3.1\25-静态和非静态.dll
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\26-访问外部项目的类\bin\Debug\netcoreapp3.1\25-静态和非静态.pdb
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\26-访问外部项目的类\obj\Debug\netcoreapp3.1\26-访问外部项目的类.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\26-访问外部项目的类\obj\Debug\netcoreapp3.1\26-访问外部项目的类.csproj.CopyComplete

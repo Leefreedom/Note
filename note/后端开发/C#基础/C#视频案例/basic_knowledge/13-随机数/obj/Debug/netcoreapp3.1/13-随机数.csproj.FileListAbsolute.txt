@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\13-随机数\bin\Debug\netcoreapp3.1\13-随机数.exe
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\13-随机数\bin\Debug\netcoreapp3.1\13-随机数.deps.json
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\13-随机数\bin\Debug\netcoreapp3.1\13-随机数.runtimeconfig.json
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\13-随机数\bin\Debug\netcoreapp3.1\13-随机数.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\13-随机数\bin\Debug\netcoreapp3.1\13-随机数.dll
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\13-随机数\bin\Debug\netcoreapp3.1\13-随机数.pdb
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\13-随机数\obj\Debug\netcoreapp3.1\13-随机数.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\13-随机数\obj\Debug\netcoreapp3.1\13-随机数.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\13-随机数\obj\Debug\netcoreapp3.1\13-随机数.dll
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\13-随机数\obj\Debug\netcoreapp3.1\13-随机数.pdb

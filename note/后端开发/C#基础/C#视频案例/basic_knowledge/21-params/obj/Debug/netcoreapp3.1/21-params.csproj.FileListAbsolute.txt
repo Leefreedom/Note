@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\21-params\bin\Debug\netcoreapp3.1\21-params.exe
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\21-params\bin\Debug\netcoreapp3.1\21-params.deps.json
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\21-params\bin\Debug\netcoreapp3.1\21-params.runtimeconfig.json
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\21-params\bin\Debug\netcoreapp3.1\21-params.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\21-params\bin\Debug\netcoreapp3.1\21-params.dll
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\21-params\bin\Debug\netcoreapp3.1\21-params.pdb
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\21-params\obj\Debug\netcoreapp3.1\21-params.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\21-params\obj\Debug\netcoreapp3.1\21-params.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\21-params\obj\Debug\netcoreapp3.1\21-params.dll
+C:\Users\Administrator\Desktop\C#视频案例笔记\basic_knowledge\21-params\obj\Debug\netcoreapp3.1\21-params.pdb
