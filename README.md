@@ -6,3 +6,4 @@ Code learning on a daily basis!
 - Linux的基本命令
 - JSON
 - JavaScript知识点整理
+- c#基础知识
